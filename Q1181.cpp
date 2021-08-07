@@ -4,7 +4,6 @@
 #include <algorithm>
 #include <cstring>
 #include <string>
-#pragma warning( disable : 4996 )
 using namespace std;
 
 bool compare_f(string str1, string str2) {
